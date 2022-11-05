@@ -1,3 +1,9 @@
+## 1.3.4
+* Jitsi Sdk Updated to 6.2.2
+## 1.3.4
+* Kotlin Update
+* Gradle Update
+
 ## 1.3.2
 * Jitsi IOS Build Fix
 
